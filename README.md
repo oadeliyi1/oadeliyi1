@@ -20,10 +20,14 @@
 
 ### 🌈  My future projects and goals 🌈
 
-![Image](blogclipart.png)
-- I would like to add a blog to my portfolio website
+![Image](blogart_1_30.jpeg)
+
+#### - I would like to add a blog to my portfolio website
 
 
+![Image](mern_32.png)
+
+#### Learn MERN stack
 <!--
 **oadeliyi1/oadeliyi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

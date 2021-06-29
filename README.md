@@ -1,9 +1,9 @@
 ![Header](oriade2.jpg)
 <div align="center">
-  <div> 👋🏾 Hi There! 👋🏾  </div>
+  <div style="font-size:40px;font-weight:bold"> 👋🏾 Hi There! 👋🏾  </div>
                                               <div font-size="20px">    💻 I'm an Aspiring Software Developer! 💻.  </div>
                                        <div> Follow me on Github and check my website to follow my journey! </div>
-                        [LinkedIn](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn")    [My Website](https://oriyomi.netlify.app "Website") </div>
+                   
    </div>
    
 ####                           [LinkedIn](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn")  

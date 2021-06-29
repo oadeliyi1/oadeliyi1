@@ -12,10 +12,13 @@
 
 ### 👓 My current projects/activities 👓
 
-![Image](YouDon'tKnowJS.png)
+![Image](YouDontKnowJS1.png)
 
-#### I'm reading the "You Don't Know JS Yet" series by Kyle Simpson to strengthen my JS skills. I'm on the "Scopes and Closures" book
+#### -  I'm reading the "You Don't Know JS Yet" series by Kyle Simpson to strengthen my JS skills. I'm on the "Scopes and Closures" book
 
+![Image](sortingSmall.png)
+
+#### - I'm working to improve my Sorting Visualizer
 
 
 ### 🌈  My future projects and goals 🌈
@@ -25,9 +28,25 @@
 #### - I would like to add a blog to my portfolio website
 
 
-![Image](mern_32.png)
+![Image](mern_1_22.png)
 
-#### Learn MERN stack
+#### -  I want to learn MERN stack through a course on Udemy
+
+![Image](cuc.png)
+
+#### - I want to strengthen my Data Structures and Algorithms skills by continuing Data Structures and Alogorithms specialization on Coursera by UC San Diego
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **oadeliyi1/oadeliyi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

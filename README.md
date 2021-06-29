@@ -1,3 +1,5 @@
+![Header](Positive Vibes.png)
+
 ### Hi there 👋
 
 <!--

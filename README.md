@@ -1,8 +1,10 @@
 ![Header](oriade2.jpg)
 
-### Hi there 👋
-### I'm an Aspiring Software Developer! 
-### Follow me on Github and check mmy website to follow my journey!
+##                                                              👋🏾  Hi there! 👋🏾
+##                                                   💻 I'm an Aspiring Software Developer! 💻
+##                                         Follow me on Github and check my website to follow my journey!
+##                                         [Link](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn") 
+
 <!--
 **oadeliyi1/oadeliyi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

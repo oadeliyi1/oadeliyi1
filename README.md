@@ -1,5 +1,4 @@
-![image](Positive Vibes.png "Header)
-
+![Header](oriade.jpg)
 
 ### Hi there 👋
 

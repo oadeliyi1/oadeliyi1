@@ -1,9 +1,10 @@
 ![Header](oriade2.jpg)
 <div align="center">
+  <div> 👋🏾 Hi There! 👋🏾  </div>
                                                   💻 I'm an Aspiring Software Developer! 💻
                                         Follow me on Github and check my website to follow my journey!
                         [LinkedIn](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn")    [My Website](https://oriyomi.netlify.app "Website")
-                                              </div>
+   </div>
 <!--
 **oadeliyi1/oadeliyi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

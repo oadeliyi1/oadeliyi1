@@ -6,7 +6,7 @@
 
    </div>
 
-####                           [LinkedIn](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn")
+####                       [LinkedIn](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn")
 ####                       [My Website](https://oriyomi.netlify.app "Website")
 
 
@@ -14,10 +14,15 @@
 
 ![Image](YouDon'tKnowJS.png)
 
-- I'm reading the "You Don't Know JS Yet" series by Kyle Simpson to strengthen my JS skills
+#### I'm reading the "You Don't Know JS Yet" series by Kyle Simpson to strengthen my JS skills. I'm on the "Scopes and Closures" book
 
 
-* My future projects and goals *
+
+### 🌈  My future projects and goals 🌈
+
+![Image](blogclipart.png)
+- I would like to add a blog to my portfolio website
+
 
 <!--
 **oadeliyi1/oadeliyi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

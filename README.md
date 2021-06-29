@@ -1,4 +1,4 @@
-[![Header](Positive Vibes.png "Header")](oriyomi.netflify.app)
+![image](Positive Vibes.png "Header)
 
 
 ### Hi there 👋

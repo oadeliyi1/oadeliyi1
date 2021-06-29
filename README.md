@@ -6,7 +6,8 @@
                         [LinkedIn](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn")    [My Website](https://oriyomi.netlify.app "Website") </div>
    </div>
    
-####                           [LinkedIn](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn")    [My Website](https://oriyomi.netlify.app "Website") </div>
+####                           [LinkedIn](https://www.linkedin.com/in/oriyomi-adeliyi/ "LinkedIn")  
+####                       [My Website](https://oriyomi.netlify.app "Website") 
 
 <!--
 **oadeliyi1/oadeliyi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

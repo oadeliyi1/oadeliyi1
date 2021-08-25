@@ -1,7 +1,7 @@
 ![Header](oriade2.jpg)
 <div align="center">
   <div style="font-size:40px"> 👋🏾 Hi There! 👋🏾  </div>
- <div font-size="30px">    💻 I'm an Aspiring Software Developer! 💻.  </div>
+ <div font-size="30px">    💻 Learning Software Development! 💻.  </div>
   <div> Follow me on Github and check out my website to follow my journey! </div>
 
    </div>

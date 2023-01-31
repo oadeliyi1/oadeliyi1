@@ -1,4 +1,4 @@
-![Header](oriade2.jpg)
+
 <div align="center">
   <div style="font-size:40px"> 👋🏾 Hi There! 👋🏾  </div>
  <div font-size="30px">    💻 Learning Software Development! 💻.  </div>
